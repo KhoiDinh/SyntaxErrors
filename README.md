@@ -1,0 +1,2 @@
+# SyntaxErrors
+Modify the Payroll program to create a collection of errors as shown in the tables below. A syntax error is a violation of the rules of the language. Sometimes a syntax error is not serious enough to prevent the program from being compiled into machine code, so a warning is issued instead of an error. As a matter of good programming practice, you should clear up the warnings even though the program compiles and runs. 
